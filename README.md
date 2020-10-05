@@ -8,5 +8,5 @@ Pronouns: He/Him
 I am looking for help on Java / node.js / python 
 I am currently learning Java, Python, Javascript and HTML and CSS.
 Ask me about: Basics in Java and anything else outside coding.
-Reach me on: [@namijiwrites](https://medium.com/namijiwrites) 
+Reach me on: [@namijiwrites](https://medium.com/@namijiwrites) 
 Fun Fact: I like to watch game and reaction videos.
