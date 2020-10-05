@@ -5,7 +5,7 @@ I am content writer at afdtechtalk
 Outside coding I cook and daydream stories I hope to publish as novels and I enjoy podcast, photography, illustration and anime. 
 
 Pronouns: He/Him
-I am looking for help on Java / node.js / python 
+I am looking for help on Java / node.js 
 I am currently learning Java, Python, Javascript and HTML and CSS.
 Ask me about: Basics in Java and anything else outside coding.
 Reach me on: [@namijiwrites](https://medium.com/@namijiwrites) 
