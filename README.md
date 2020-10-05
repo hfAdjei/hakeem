@@ -1,4 +1,5 @@
 ### 👋 Hi there! I'm Hakeem Adjei.
+---
  From the streets of Accra Ghana, is a storyteller who is excited to dive into the software development journey and is passionate about new projects. 
  I am a creative writer who wants to translate my ideas and share by contributing to open-source projects. 
  On most days, I write at [afdtechtalk](afd-techtalk.com) and [@namijiwrites](https://medium.com/@namijiwrites).
