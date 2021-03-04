@@ -15,5 +15,5 @@
 - 🧐 I am currently learning React.
 - 💬Ask me about: Basics in Java, UX Design Practices and stories about Ananse.
 - 📫 Reach me on: [@namijiwrites](https://twitter.com/namijiwrites)
-- ⚡Fun Fact: I enjoy music to a lot and I write stories that are kind of horrible to read but wholesome to imagine.
+- ⚡Fun Fact: I enjoy music a lot and I write stories that are kind of horrible to read but wholesome to imagine.
 
