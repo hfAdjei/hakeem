@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him
 - 🙏🏾 I am looking for help on React, Node.js and you know CSS.
 - 🧐 I am currently learning React.
-- 💬Ask me about: Basics in Java, UX Design Parctices and stories about Ananse.
+- 💬Ask me about: Basics in Java, UX Design Practices and stories about Ananse.
 - 📫 Reach me on: [@namijiwrites](https://twitter.com/namijiwrites)
 - ⚡Fun Fact: I enjoy music to a lot and I write stories that are kind of horrible to read but wholesome to imagine.
 
