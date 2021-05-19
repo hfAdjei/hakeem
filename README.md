@@ -22,7 +22,7 @@
 - 🙏🏾 **I am looking for help on** React, Angular and Flutter.
 - 🧐 **I am currently learning** React.
 - 💬 **Ask me about:** Basics in Java, UX Design Practices and Technical Writing.
-- 📫 **Need me to help your project?**: [Email me](mailto:hakeem_adjei@outlook.com)
+- 📫 **Need my help on a project**: [Email me](mailto:hakeem_adjei@outlook.com)
 - ⚡ **Fun Fact:** I enjoy chill beats and reaction videos.
 - 😄 Pronouns: He/Him
 
