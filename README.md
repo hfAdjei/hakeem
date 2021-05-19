@@ -19,7 +19,7 @@
 - 😄 Pronouns: He/Him
 - 🙏🏾 I am looking for help on React, Angular  and Flutter.
 - 🧐 I am currently learning React.
-- 💬Ask me about: Basics in Java, UX Design Practices and stories about Ananse.
+- 💬Ask me about: Basics in Java, UX Design Practices and Technical Writing.
 - 📫Need me to help your project? : [Email me](mailto:hakeem_adjei@outlook.com)
 - ⚡Fun Fact: I enjoy chill beats and reaction videos.
 
