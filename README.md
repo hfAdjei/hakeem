@@ -11,7 +11,7 @@
  
 ---
  From the streets of Accra Ghana, is a creative who is excited about journeys and passionate about finding creative solutions to everyday problems. 
- I am a UI/UX designer and junior dev who seeks to translate ideas and learn through open-source projects.
+ I am a UI/UX designer and junior dev who seeks to translate ideas, craete aethestic creative stuff and contribute to cool open-source projects.
  
  On my free time, I write at [afdtechtalk](afd-techtalk.com) and [@Medium](https://medium.com/@namijiwrites).
  Outside coding I enjoy cooking, daydreaming stories I hope to publish as novels, and also geek about podcasts, photography, illustration and anime. 
@@ -20,6 +20,6 @@
 - 🙏🏾 I am looking for help on React, Angular  and Flutter.
 - 🧐 I am currently learning React.
 - 💬Ask me about: Basics in Java, UX Design Practices and stories about Ananse.
-- 📫 Reach me on: [Hakeem Adjei](mailto:hakeem_adjei@outlook.com)
+- 📫Need me to help your project? : [Email me](mailto:hakeem_adjei@outlook.com)
 - ⚡Fun Fact: I enjoy chill beats and reaction videos.
 
