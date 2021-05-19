@@ -1,7 +1,8 @@
 <h3 align="center">👋 Hi there! I'm Hakeem Adjei. </h3>
 <p align="center">
- <a href="https://namiji.disha.page">My Page</a> //
+ <a href="https://namiji.disha.page">My Page</a>
  </p>
+ 
  <p align="center">
    <a href="https://www.linkedin.com/in/hfadjei/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Hakeem Adjei-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hfadjei/"></a>
    <a href="https://twitter.com/nxmiji"><img alt="Twitter" src="https://img.shields.io/badge/-@nxmiji-08a0e9?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/nxmiji"></a>
