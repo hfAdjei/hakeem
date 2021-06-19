@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi there! I'm Hakeem Adjei. </h1>
+<h1 align="center"> 🖖🏿 Hi there! I'm Hakeem Adjei. 
+ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
+</h1> 
 <p align="center">
  <a href="https://namiji.disha.page">My Page</a>
  </p>
@@ -19,10 +21,11 @@
  On my free time, I write at [afdtechtalk](afd-techtalk.com) and [@Medium](https://medium.com/@namijiwrites).
  Outside coding I enjoy cooking, daydreaming stories I hope to publish as novels, and also geek about podcasts, photography, illustration and anime. 
 
-- 🙏🏾 **I am looking for help on** React, Angular and Flutter.
-- 🧐 **I am currently learning** React.
-- 💬 **Ask me about:** Basics in Java, UX Design Practices and Technical Writing.
-- 📫 **Need my help on a project**: [Email me](mailto:hakeem_adjei@outlook.com)
+- 🙏🏾 I am looking for help on **React, Angular and Flutter.**
+- 🎨 My makeshift UX design portfolio on **[Namiji](https://namiji.disha.page)**
+- 🧐 I am currently learning **React.**
+- 💬 **Ask me about:** *Basics in Java, UX Design Practices and Technical Writing.*
+- 📫 **How to reach me**: *[Email me](mailto:hakeem_adjei@outlook.com)*
 - ⚡ **Fun Fact:** I enjoy chill beats and reaction videos.
 - 😄 Pronouns: He/Him
 
