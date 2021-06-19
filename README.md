@@ -1,9 +1,9 @@
 <h1 align="center"> 🖖🏿 Hi there! I'm Hakeem Adjei. 
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 </h1> 
-<p align="center">
- <a href="https://namiji.disha.page">My Page</a>
- </p>
+<h3 align="center">
+ <a href="https://namiji.disha.page">UX/UI Design Portfolio</a>
+ </h3>
  
  <p align="center">
    <a href="https://www.linkedin.com/in/hfadjei/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Hakeem Adjei-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hfadjei/"></a>
@@ -22,7 +22,6 @@
  Outside coding I enjoy cooking, daydreaming stories I hope to publish as novels, and also geek about podcasts, photography, illustration and anime. 
 
 - 🙏🏾 I am looking for help on **React, Angular and Flutter.**
-- 🎨 My makeshift UX design portfolio on **[Namiji](https://namiji.disha.page)**
 - 🧐 I am currently learning **React.**
 - 💬 **Ask me about:** *Basics in Java, UX Design Practices and Technical Writing.*
 - 📫 **How to reach me**: *[Email me](mailto:hakeem_adjei@outlook.com)*
