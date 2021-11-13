@@ -14,7 +14,7 @@
  
  <h3 align="left"> 
  From the streets of Accra Ghana, is a creative who is excited about journeys and passionate about finding creative solutions to everyday problems. 
- I am a UI/UX designer and junior dev who seeks to translate ideas, create aesthetic stuff and contribute to cool open-source projects.
+ I am a UX/PRODUCT designer with essential developer skills who seeks to translate ideas, create aesthetic stuff and contribute to cool open-source projects.
  </h3>
  
  ---
