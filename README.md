@@ -24,7 +24,7 @@
 - 🙏🏾 I am looking for help on **React, Angular and Flutter.**
 - 🧐 I am currently learning **React.**
 - 💬 **Ask me about:** *Basics in Java, UX Design Practices and Technical Writing.*
-- 📫 **How to reach me**: *[Email me](mailto:hakeem_adjei@outlook.com)*
+- 📫 **How to reach me**: *[Email me](mailto:nxmiji@gmail.com)*
 - ⚡ **Fun Fact:** I enjoy chill beats and reaction videos.
 - 😄 Pronouns: He/Him
 
